@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}
+
+nav ul li a {
+  text-decoration: none; 
+  color: black; 
+  margin-left: 4px;
+  font-size: medium;
+  color: black;
+  }
+  nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end
+
+    }
+    .media-video{
+      margin: 10px auto;
+      max-width: 100%;
+      height:auto;
+      display: block;
+      margin-top: 10px;
+      
+      
+    }
+    
+    .media-image{
+      margin: 10px auto;
+      max-width: 100%;
+      height:auto;
+      display: block;
+     
+    }
+    .media-container{
+      display: block;
+      text-align: center;
+    }

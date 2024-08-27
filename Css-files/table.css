@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+th{
+    font-size: larger;
+}
+body{
+    background-color: bisque;
+}
+nav ul li a {
+    text-decoration: none; 
+    color: rgb(251, 100, 13); 
+    margin-left: 4px;
+    font-size: medium;
+   
+    }
+    nav ul{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: flex-end
+    
+        }
+        
+          th, td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd
+            ;
+          }
+          tr:hover {
+            background-color: #dfd095;
+          }
+          thead tr th{
+            border: 2px solid gray;
+            background-color: rgb(241, 190, 124);
+          }

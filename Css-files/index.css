@@ -1,0 +1,33 @@
+:root{
+    --color-1: rgb(232, 116, 222);
+    --color-2: rgb(16, 15, 15);
+}
+
+
+h1, h2, h3{
+   padding: 10px;
+   background-color: var(--color-1);
+  border: 2px solid var(--color-2);
+
+}
+
+
+
+[href]{
+ color: rgb(228, 23, 23);
+}
+nav ul li a {
+  text-decoration: none; 
+  color: black; 
+  margin-left: 4px;
+  font-size: medium;
+  color: black;
+  }
+  nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end
+
+    }
