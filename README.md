@@ -4,6 +4,14 @@ Welcome to the **First Semester Workload** repository! This project contains a c
 
 ---
 
+## 🌐 Live Preview
+
+You can explore a live version of the work showcased in this repository here:  
+[**First Semester Workload Website**](https://clairebasil-first-semester.netlify.app/)
+
+---
+
+
 ## 📚 Repository Overview
 
 This repository is organized into folders, each representing a specific topic covered during the semester. Below is a breakdown of its contents:
